@@ -67,8 +67,8 @@
     }
 
     .todo-item-input-text:focus {
-        background-color: rgb(204, 229, 253);
-        color: black;
+        background-color: rgb(89, 155, 216);
+        color: rgb(78, 67, 67);
         padding: 4px;
         padding-left: 10px;
     }
